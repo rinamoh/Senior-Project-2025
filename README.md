@@ -1,9 +1,6 @@
-# Senior-Project-2025
 
 
-
-
-# **📌 [Project Name] - Senior Project**  
+# **📌 - Senior Project**  
 **Team Members:** Sebrina Akmel, Blen Seleshi, Birkity Yishak, Betelhem Tefera  
 **Advisor:** Nebiat Tekle  
 **Date:** March 20/2025 – TBD  
@@ -13,9 +10,9 @@
   > *"Our project is a A Digital Platform for Connecting Blue-Collar Workers and Service Providers with Clients in Addis Ababa, Featuring AI-Driven Service Discovery and Secure Payment Solutions."*  
 
 ## **🚀 Features / Key Components**  
-- **Feature 1** – What it does.  
-- **Feature 2** – Why it matters.  
-- **Feature 3** – How it works at a high level.  
+- **Feature 1** – [].  
+- **Feature 2** – [].  
+- **Feature 3** – [].  
 
 ## **🛠️ Technologies Used**  
 - **Frontend:**  React, HTML/CSS 
@@ -33,7 +30,7 @@
 - Weekly updates are tracked in `docs/progress_reports/`.  
 
 ## **🔗 Useful Links**  
-- [Trello/Asana Board]()  
+- [Jira Board]()  
 - [Figma Prototype]()  
 - [Research Papers/References]()  
 
